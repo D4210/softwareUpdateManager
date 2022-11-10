@@ -1,0 +1,7 @@
+
+bin
+bin/config.ini
+bin/key.pem
+index.txt
+resources
+resources/gShellEssential.res
